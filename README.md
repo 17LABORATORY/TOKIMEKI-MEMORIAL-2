@@ -7,4 +7,9 @@
 
 최신 버전: 2026/10/20
 
-https://www.youtube.com/watch?v=aYw5Ir2pljo
+<div align="center">
+  <a href="[https://youtube.com](https://www.youtube.com/watch?v=aYw5Ir2pljo)">
+    <img src="https://youtube.com" alt="비디오 타이틀" width="640">
+  </a>
+</div>
+
