@@ -8,8 +8,9 @@
 최신 버전: 2026/10/20
 
 <div align="center">
-  <a href="[https://youtube.com](https://www.youtube.com/watch?v=aYw5Ir2pljo)">
-    <img src="https://youtube.com" alt="비디오 타이틀" width="640">
+  <a href="https://www.youtube.com/watch?v=aYw5Ir2pljo">
+    <img src="https://youtube.com" alt="두근두근 메모리얼 2 한국어판 정식 릴리즈 샘플 영상 보러가기" width="640">
   </a>
 </div>
+
 
